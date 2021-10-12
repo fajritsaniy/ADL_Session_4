@@ -78,4 +78,7 @@ public class belajarArray {
 			System.out.println();
 		}
 	}
+	public void HelloWorld() {
+		System.out.println("Hello World");
+	}
 }
